@@ -1,11 +1,3 @@
-a = 12
-b = 13
-
-print a
-print b
-
-puts ""
-
 puts "Simple calculator"
 20.times { print "-" }
 puts
